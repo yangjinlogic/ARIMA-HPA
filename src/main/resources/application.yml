@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: arima-hpa
+#server:
+#  port: 8060
+
+
+
+
